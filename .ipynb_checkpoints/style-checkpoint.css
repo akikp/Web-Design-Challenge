@@ -19,20 +19,20 @@ body{
     font-size: 15px; 
 }
 .active, .dropdown-menu .dropdown-item:active a:hover{
-    background-color:#f2f1d0!important; 
+    background-color:#E7E7E7!important; 
 }
 .dropdown-item{
     color: #6D8092 !important; 
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
-    background-color:#f2f1d0 !important; 
+    background-color:#E7E7E7 !important; 
 }
 a{
     color: #6D8092;
     font-size: 15px; 
 }
 .nav-link:hover{
-    background-color:#f2f1d0 !important;
+    background-color:#E7E7E7 !important;
    }
 
 .navbar-brand:hover{
